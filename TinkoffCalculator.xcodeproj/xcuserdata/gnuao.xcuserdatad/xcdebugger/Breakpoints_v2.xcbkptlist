@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F705FA60-1D80-456F-9DE0-8E949E15530D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99F7ED9D-7C0F-4BF5-9529-E59780E8AC97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TinkoffCalculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "99F7ED9D-7C0F-4BF5-9529-E59780E8AC97 - 649fc5575006035f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gnuao/GitHub/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "99F7ED9D-7C0F-4BF5-9529-E59780E8AC97 - 8b667afdc98b60dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TinkoffCalculator.ViewController.buttonPressed(__C.UIButton) -&gt; ()"
+                  moduleName = "TinkoffCalculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gnuao/GitHub/TinkoffCalculator/TinkoffCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
